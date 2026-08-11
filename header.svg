@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Dheeraj — Engineer</title>
+  <desc id="desc">Minimal dark GitHub portfolio header.</desc>
+  <rect width="1200" height="260" fill="#0b0f0d"/>
+  <rect x="48" y="42" width="4" height="176" fill="#9caf88"/>
+  <text x="82" y="105" fill="#f2f0e8" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700">DHEERAJ</text>
+  <text x="82" y="145" fill="#aeb5aa" font-family="Arial, Helvetica, sans-serif" font-size="20">Engineer • Developer • 3D / Motion</text>
+  <text x="82" y="184" fill="#7f897e" font-family="Arial, Helvetica, sans-serif" font-size="15">Building useful software with clean interfaces.</text>
+  <text x="1120" y="214" text-anchor="end" fill="#5f695e" font-family="monospace" font-size="12">GITHUB / PORTFOLIO</text>
+</svg>

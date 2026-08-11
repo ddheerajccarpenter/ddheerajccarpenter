@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 190" role="img">
+  <rect x="1" y="1" width="758" height="188" rx="8" fill="#111713" stroke="#293129" stroke-width="2"/>
+  <text x="28" y="48" fill="#f2f0e8" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">PROJECT / NAME</text>
+  <text x="28" y="82" fill="#aeb5aa" font-family="Arial, Helvetica, sans-serif" font-size="15">One-line description of what the project actually does.</text>
+  <rect x="28" y="112" width="92" height="28" rx="14" fill="#1c261d"/>
+  <text x="74" y="131" text-anchor="middle" fill="#b8c9ad" font-family="Arial, Helvetica, sans-serif" font-size="12">Next.js</text>
+  <rect x="130" y="112" width="82" height="28" rx="14" fill="#1c261d"/>
+  <text x="171" y="131" text-anchor="middle" fill="#b8c9ad" font-family="Arial, Helvetica, sans-serif" font-size="12">Firebase</text>
+  <text x="704" y="158" text-anchor="end" fill="#657062" font-family="monospace" font-size="12">VIEW →</text>
+</svg>
