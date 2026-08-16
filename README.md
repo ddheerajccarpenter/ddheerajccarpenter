@@ -2,12 +2,6 @@
   <img src="https://github.com/ddheerajccarpenter/ddheerajccarpenter/blob/main/header.svg" alt="Dheeraj — Engineer" width="100%">
 </div>
 
-# Dheeraj
-
-Engineer • Developer • 3D / Motion
-
-I build software, interfaces, and visual experiences with a focus on clarity, performance, and useful interaction.
-
 ---
 
 <div align="center">
