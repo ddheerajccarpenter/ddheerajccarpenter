@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img src="./assets/section.svg" alt="Selected work" width="100%">
+  <img src="https://github.com/ddheerajccarpenter/ddheerajccarpenter/blob/main/section.svg" alt="Selected work" width="100%">
 </div>
 
 ### Project / Name
