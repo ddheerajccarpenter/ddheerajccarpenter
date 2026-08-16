@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" alt="Dheeraj — Engineer" width="100%">
+  <img src="https://github.com/ddheerajccarpenter/ddheerajccarpenter/blob/main/header.svg" alt="Dheeraj — Engineer" width="100%">
 </div>
 
 # Dheeraj
