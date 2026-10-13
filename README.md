@@ -1,42 +1,58 @@
-<div align="center">
-  <img src="https://github.com/ddheerajccarpenter/ddheerajccarpenter/blob/main/header.svg" alt="Dheeraj — Engineer" width="100%">
+ <div align="center">
+  <img src="https://raw.githubusercontent.com/ddheerajccarpenter/ddheerajccarpenter/main/header.svg" alt="Dheeraj — Engineer" width="100%" />
+
+  <p>Computer Science · Software Development · UI Engineering · 3D & Motion</p>
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://github.com/ddheerajccarpenter/ddheerajccarpenter/blob/main/section.svg" alt="Selected work" width="100%">
-</div>
+## About
 
-### Project / Name
-One-line explanation of the actual problem this project solves.
+I'm a computer science student interested in building useful software and refining the details around it: clear interfaces, predictable interactions, and maintainable implementations. Outside development, I explore 3D and motion design.
 
-**Stack:** Next.js · TypeScript · Firebase
+## Selected work
 
-- What I built
-- What I learned
-- What makes it technically interesting
+### [Project name](YOUR_REPOSITORY_URL)
 
-### Project / Name
-Short description.
+A concise description of the problem the project solves, who it is for, and what it helps them accomplish.
 
-**Stack:** React · TypeScript · Three.js
+**Stack:** `Next.js` · `TypeScript` · `Firebase`
+
+**Engineering focus:** Describe one meaningful implementation detail, such as authentication, data modelling, performance, or responsive behaviour.
+
+### [Project name](YOUR_REPOSITORY_URL)
+
+A short, specific explanation of the project and the reason you built it.
+
+**Stack:** `React` · `TypeScript` · `Three.js`
+
+**Engineering focus:** Highlight a real technical decision, an interesting interaction, or a challenge you solved.
 
 ---
 
-## Tools
+## Technologies
 
-`TypeScript` `JavaScript` `React` `Next.js` `Firebase` `Python` `Blender` `Git`
+**Web development**  
+`TypeScript` · `JavaScript` · `React` · `Next.js`
+
+**Backend & data**  
+`Firebase`
+
+**Programming**  
+`Python`
+
+**Creative tools**  
+`Blender`
+
+**Workflow**  
+`Git` · `GitHub`
 
 ## Current focus
 
-- Web and application development
-- UI engineering
-- 3D and motion
-- Building practical projects
-
----
+- Building practical web and application projects.
+- Improving responsive layouts, interface behaviour, and UI engineering.
+- Exploring 3D workflows and motion design.
 
 ## Contact
 
-[Portfolio](https://example.com) · [LinkedIn](https://linkedin.com) · [Email](mailto:hello@example.com)
+[Portfolio](https://dheerajcarpenter.vercel.app/) · [GitHub](https://github.com/ddheerajccarpenter) · [LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:YOUR_EMAIL)
