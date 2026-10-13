@@ -1,5 +1,4 @@
  <div align="center">
-  <img src="https://raw.githubusercontent.com/ddheerajccarpenter/ddheerajccarpenter/main/header.svg" alt="Dheeraj — Engineer" width="100%" />
 
   <p>Computer Science · Software Development · UI Engineering · 3D & Motion</p>
 </div>
