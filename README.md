@@ -11,7 +11,6 @@ I'm a computer science student interested in building useful software and refini
 
 ## Selected work
 
-### [Project name](YOUR_REPOSITORY_URL)
 
 A concise description of the problem the project solves, who it is for, and what it helps them accomplish.
 
@@ -19,7 +18,6 @@ A concise description of the problem the project solves, who it is for, and what
 
 **Engineering focus:** Describe one meaningful implementation detail, such as authentication, data modelling, performance, or responsive behaviour.
 
-### [Project name](YOUR_REPOSITORY_URL)
 
 A short, specific explanation of the project and the reason you built it.
 
@@ -54,4 +52,4 @@ A short, specific explanation of the project and the reason you built it.
 
 ## Contact
 
-[Portfolio](https://dheerajcarpenter.vercel.app/) · [GitHub](https://github.com/ddheerajccarpenter) · [LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:YOUR_EMAIL)
+[Portfolio](https://dheerajcarpenter.vercel.app/) · [GitHub](https://github.com/ddheerajccarpenter) · [LinkedIn]() · [Email](mailto:YOUR_EMAIL)
